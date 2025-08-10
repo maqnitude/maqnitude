@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm currently working [DepresStore](https://github.com/maqnitude/DepresStore).
+I'm currently working on [DepresStore](https://github.com/maqnitude/DepresStore).
 
 <!--
 **maqnitude/maqnitude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
