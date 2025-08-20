@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm currently working on [DepresStore](https://github.com/maqnitude/DepresStore) and some throw-away projects to learn stuff.
+I'm currently working on [DepresStore](https://github.com/maqnitude/DepresStore) and some throwaway projects to learn stuff.
 
 <!--
 **maqnitude/maqnitude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
